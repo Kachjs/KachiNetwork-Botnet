@@ -1,1 +1,1 @@
-# KachiNetwork-Botnet
+Merhabalar Arkadaşlar Ben Kachi Yani Mert Şimdi Size Fivem Sunucularına Discord Sesi Olsun Hostingler Olsun Voxility Olsun Her Yeri Düşürdüğüm Botnetimin Source Yani Açık Kaynak Kodlarını Vericeğim Kurmayı Bilenler Zaten Az Çok Biliyor Bu Botneti Kurarken Sizlere Centos 6 Bir Linux VDS Lazım Minimun 2 GB Ram Tercihimdir Arkadaşlar Velevki Kurdunuz Diyelim User Kasmanız Lazım Yoksa Sikseniz Saldırı Çıkamazsınız Hadi Bays
