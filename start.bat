@@ -1,2 +1,0 @@
-python cnc.py
-pause
